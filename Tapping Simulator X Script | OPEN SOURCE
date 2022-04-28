@@ -1,3 +1,5 @@
+--{ master sekkay scripts (https://www.youtube.com/channel/UCO4NicQHqiHvM2thYokFg8w) }--
+
 getgenv().AutoTap = false;
 getgenv().AutoRebirths = false;
 getgenv().AutoEquipBest = false;
